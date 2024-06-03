@@ -6,7 +6,7 @@ public class FoquitoScript : MonoBehaviour
 {
     [SerializeField] GameObject[] colors;
     public int currentLightIndex =-1;
-    int Contciclo=0;
+    int ContCiclo=0;
     public int LimCiclo = 3;
 
     void Start()
